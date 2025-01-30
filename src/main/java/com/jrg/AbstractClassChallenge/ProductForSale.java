@@ -1,3 +1,5 @@
+package com.jrg.AbstractClassChallenge;
+
 public abstract class ProductForSale {
     protected String type;
     protected double price;

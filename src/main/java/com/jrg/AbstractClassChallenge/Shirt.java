@@ -1,3 +1,5 @@
+package com.jrg.AbstractClassChallenge;
+
 public class Shirt extends ProductForSale{
     public Shirt(String type, double price, String description){
         super(type, price, description);

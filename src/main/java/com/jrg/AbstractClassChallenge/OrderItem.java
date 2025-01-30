@@ -1,3 +1,5 @@
+package com.jrg.AbstractClassChallenge;
+
 import java.util.ArrayList;
 
 public class OrderItem {

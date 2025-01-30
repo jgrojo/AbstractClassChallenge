@@ -1,3 +1,5 @@
+package com.jrg.AbstractClassChallenge;
+
 import java.util.ArrayList;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
